@@ -1,4 +1,7 @@
 # Quantitative-Study-of-a-Text-Corpus
+## Данные
+https://github.com/d0rj/RusLit/tree/main
+
 ## Стек
 
 pandas, numpy, matplotlib, seaborn, nltk, pymorphy3, wordcloud, scikit-learn, xgboost, scipy
